@@ -1,8 +1,9 @@
 
 {
-  "name": "CHIL",
+  "name": "Chile Stake po",
   "ticker": "CHIL",
   "description": "No Description",
-  "homepage": "https://foo.com",
-  "nonce": "1718389625"
+  "homepage": "https://www.chilestakepo.cl",
+  "nonce": "1718401543",
+  "extended": "https://foo.com/metadata/extended.json"
 }
