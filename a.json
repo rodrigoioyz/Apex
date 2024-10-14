@@ -1,8 +1,8 @@
-
 {
   "name": "Chile Stake po",
   "ticker": "CHIL",
   "description": "24/7",
-  "homepage": "https://www.chilestakepo.cl"
+  "homepage": "https://www.chilestakepo.cl",
+  "extended": "https://raw.githubusercontent.com/rodrigoioyz/Apex/main/a.json"
 }
 
